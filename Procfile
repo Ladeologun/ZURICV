@@ -1,0 +1,1 @@
+web: gunicorn zuricv.wsgi --log-file -
